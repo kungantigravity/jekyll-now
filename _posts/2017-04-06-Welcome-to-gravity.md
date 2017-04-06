@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Welcome to Gravity!
+author: Kungen
 ---
 
 In order to fully master anti gravity, one must first understand gravity!
