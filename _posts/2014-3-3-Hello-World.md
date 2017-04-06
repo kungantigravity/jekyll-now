@@ -1,10 +1,13 @@
 ---
 layout: post
-title: You're up and running!
+title: 2017-04-06-Welcome to Gravity!
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+In order to fully master anti gravity, one must first understand gravity!
+
+![no gravity freindship](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRSm8HDBaLgBsjZHEy_VgEvndAa-EqgtqsrBoLgUBfvBCT0N9lww)
+
+Gravity is an attractive force between any two bodys that pulls them together, like the freindshp between the freinds above.
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
