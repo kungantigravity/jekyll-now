@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2017-04-06-Welcome to Gravity!
+title: Welcome to Gravity!
 ---
 
 In order to fully master anti gravity, one must first understand gravity!
